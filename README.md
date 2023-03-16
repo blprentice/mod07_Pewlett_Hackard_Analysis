@@ -1,10 +1,10 @@
 
-# Surfing the "Silver Tsunami" at Pewlett-Hackard
+# Surfing the "Silver Tsunami" at Pewlett Hackard
 
 ## Overview of the Analysis
 
-Pewlett-Hackard is faced with a massive amount of retirements in the next 3-5 years. A tremendous amount of  
-institutional knowledge will be lost in this "silver tsunami". It is imperative that Pewlett-Hackard find a way  
+Pewlett Hackard is faced with a massive amount of retirements in the next 3-5 years. A tremendous amount of  
+institutional knowledge will be lost in this "silver tsunami". It is imperative that Pewlett Hackard find a way  
 to pass on as much accumulated knowledge, skills, and expertise from its senior employees to the younger generations  
 of employees. To that end, management has developed the framework for a mentorship program in which younger employees  
 would be paired up with a senior employee in their department to engage in knowledge transfer.
@@ -38,9 +38,9 @@ To that end, we provide the following deliverables in this analysis:
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-Pewlett-Hackard is set to lose a truly massive number of experienced employees in the coming years. Combining all  
+Pewlett Hackard is set to lose a truly massive number of experienced employees in the coming years. Combining all  
 engineering titles on the retirement list gives us 36,291. Compare that to the number of all engineers  
-(Senior Engineer, Engineer, and Assistant Engineer) eligible for mentorship: 748. Pewlett-Hackard may not need to fill  
+(Senior Engineer, Engineer, and Assistant Engineer) eligible for mentorship: 748. The company may not need to fill  
 every single engineering postion that will be lost but nonetheless will need to hire thousands - perhaps tens of thousands -  
 of new engineers over the next decade. The same is largely true for Senior Staff and Staff job titles. Remaining job titles  
 (Techique Leader, Manager) have much smaller numbers retiring, so we don't anticipate to much of an issue backfilling those  
